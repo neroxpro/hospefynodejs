@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1687150042807,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.2fce3bb83b3d11de.js",
+        "/manifest.webmanifest",
+        "/polyfills.a9016b3432194b33.js",
+        "/runtime.ae47027c2ef52ba3.js",
+        "/scripts.b73311b29b2da141.js",
+        "/styles.55cd67cc8f99bc7d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-64x64.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/accesibilidadicono.png",
+        "/assets/img/casa1.jpg",
+        "/assets/img/casa10.jfif",
+        "/assets/img/casa10.jpg",
+        "/assets/img/casa2.jpg",
+        "/assets/img/casa3.jpg",
+        "/assets/img/casa4.jpg",
+        "/assets/img/casa5.1.jpg",
+        "/assets/img/casa5.jfif",
+        "/assets/img/casa5.jpg",
+        "/assets/img/casa6.jpeg",
+        "/assets/img/casa7.jfif",
+        "/assets/img/casa7.jpg",
+        "/assets/img/casa8.jfif",
+        "/assets/img/casa8.jpg",
+        "/assets/img/casa9.jfif",
+        "/assets/img/casa9.jpg",
+        "/assets/img/img1.jpeg",
+        "/assets/img/img2.jpeg",
+        "/assets/img/img3.jpeg",
+        "/assets/img/img4.jpeg",
+        "/assets/img/img4.jpg",
+        "/assets/img/img5.jpeg",
+        "/assets/img/logo.jpeg",
+        "/assets/img/logo.png",
+        "/color.dae87a04d07ca92b.png",
+        "/hue.8b1818380241e6ac.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "46d9d8942c2956dc710fc4c2bc0489d0579460a1",
+    "/assets/icons/icon-144x144.png": "537ca7bfdaeef6ef04256c80b437d9d072cfe6b5",
+    "/assets/icons/icon-152x152.png": "bb10f0e0996784df2bc5201d306aa322b6f1ef48",
+    "/assets/icons/icon-192x192.png": "58a69db77acb49e189938eefa78967ae5db097c9",
+    "/assets/icons/icon-384x384.png": "0cfee93e02eda3202dd440b371777f3ba68c9910",
+    "/assets/icons/icon-512x512.png": "2eacecd87b83a27a19b995b38cdc86853c40bcf9",
+    "/assets/icons/icon-64x64.png": "6a408fa402099d582fc98d19737fb29acddc8c82",
+    "/assets/icons/icon-72x72.png": "613a5505c917d7d311b82c8a79b2a174a2e36d7b",
+    "/assets/icons/icon-96x96.png": "1a54c6fb949fccbdcb1b2645850f6b760d4bd470",
+    "/assets/img/accesibilidadicono.png": "ee5ba773ed2eefe6b09f19b793e411be69803ab4",
+    "/assets/img/casa1.jpg": "fc706838cba5f98bb5b42bad40a4587dc2d4969b",
+    "/assets/img/casa10.jfif": "83061e591bd39c1e977177b653ae59bce55c7270",
+    "/assets/img/casa10.jpg": "1e59fa89e43a5320929de3b04a5b94e887695a18",
+    "/assets/img/casa2.jpg": "4b6613aa3fb3dbaf1cddc4de9f94396bc7a398e3",
+    "/assets/img/casa3.jpg": "d5e308ebc9b2ef8ea43160e4089dfb3ee6f52704",
+    "/assets/img/casa4.jpg": "d327b1b98e083f45f6e973c8208d482c85d0d529",
+    "/assets/img/casa5.1.jpg": "94cc3d726a720fc961c28674a5efbdea6e5f074e",
+    "/assets/img/casa5.jfif": "e2afb452697fc2a4dc4e44cf401983b53f74fc00",
+    "/assets/img/casa5.jpg": "ff6a940b8f6e355c712cb7d4840143339d246432",
+    "/assets/img/casa6.jpeg": "df5f58415da876cefdc1e7f42f8119b8ff77f2a9",
+    "/assets/img/casa7.jfif": "1d5410469191274ca543e9e6d87977948bd06f24",
+    "/assets/img/casa7.jpg": "17a4c06aab1179d27afa4baa5f298be7f5875acc",
+    "/assets/img/casa8.jfif": "bf8342c1d95abdb2f2503b8fcdd736dbe121952f",
+    "/assets/img/casa8.jpg": "b8851c917a724896e1e9f10eb238beb99b5d7028",
+    "/assets/img/casa9.jfif": "4ce45a50b2a532c47f6d6ba6300d49976594df8d",
+    "/assets/img/casa9.jpg": "e0f04c88cc1683de0561755332980f21b011f1b8",
+    "/assets/img/img1.jpeg": "2a1c8eba18f46b9094540394c185fd4bfe2fec38",
+    "/assets/img/img2.jpeg": "cacdcad5d2d968376ff759d159cf681ebe461602",
+    "/assets/img/img3.jpeg": "f8ff67d02e2f6f25d1f6f68f967315b6c709fda1",
+    "/assets/img/img4.jpeg": "d3cdfdd7b0bae0270d3ee0f26bba3bc312fada97",
+    "/assets/img/img4.jpg": "a4ae684fa8054e571c8a5ac2eca38a1cc6dc8709",
+    "/assets/img/img5.jpeg": "cbd90bc5a386b554fa3947f470066ab19cff1b4a",
+    "/assets/img/logo.jpeg": "4bc8936aa537dc030334c1df639b2457c625a57c",
+    "/assets/img/logo.png": "c3a448d0a65236812d22c6bdde7dcf180842b701",
+    "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
+    "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
+    "/index.html": "c0dc5a1ac4536c30a11d132ce59f20eaff55f21f",
+    "/main.2fce3bb83b3d11de.js": "ffb2eb60744f42905b6199d369b6173933e39ef7",
+    "/manifest.webmanifest": "7212037d4988ff9c3a813ecfc6d1d2bf8a3618a4",
+    "/polyfills.a9016b3432194b33.js": "36f9ca4783f1755a48aaf8abec68b6443667074c",
+    "/runtime.ae47027c2ef52ba3.js": "66dcd46ecc756391b626253f3a090baa18d35586",
+    "/scripts.b73311b29b2da141.js": "47110f74e517612b846b5de9b47e450c10759d0a",
+    "/styles.55cd67cc8f99bc7d.css": "eb25c1361dc701887726e75a38d06a2d74468fa7"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
